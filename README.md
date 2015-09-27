@@ -1,5 +1,6 @@
-<img src="docs/images/avatar.jpg" align="left"></img>
+<img src="docs/images/avatar.jpg" align="right"></img>
 
+<p align="left">
 
 Info | <br>
 ------------ | -------------
@@ -9,4 +10,5 @@ Campus | Mariakerke
 Afstudeerrichting | MMP ProDUCE
 Schooljaar | 2015-2016
 
+</p>
 
