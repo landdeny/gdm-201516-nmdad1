@@ -24,11 +24,16 @@ Staalophaler Labo Nuytinck (2015-heden)
 
 #**Kennis webtechnologieën**
 
- - HTML & CSS : Gekend
- - PHP : Kleine basis
- - MySQL : Kleine Basis
- - Javascript : Kleine Basis
- - JQuery : Kleine Basis
+
+Taal | Kennis
+------------ | -------------
+HTML & CSS| Goed
+PHP| Basis
+MySQL | Basis
+javascript | Basis
+Jquery | Basis
+Responsive Design | Goed
+
 
 ----------
 #**Softwarekennis**
