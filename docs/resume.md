@@ -31,7 +31,21 @@ Staalophaler Labo Nuytinck (2015-heden)
  - JQuery : Kleine Basis
 
 ----------
+#**Softwarekennis**
 
+Software | Kennis
+------------ | -------------
+Photoshop | Goed
+Premiere Pro| Goed
+After Effects | Beginnend
+Indesign | Goed
+Illustrator | Goed
+Audition | Beginnend
+Cinema 4d | Beginnend - Middelmatig
+Blender | Beginnend - Middelmatig
+
+Content in the first column | Content in the second column
+----------
 #**Contactinformatie**
 Twitter - [@landerdenys_](https://twitter.com/landerdenys_)
 
