@@ -12,7 +12,7 @@ Facebook pagina: [https://www.facebook.com/landerdenyscom](https://www.facebook.
 
 #**Werkervaring**
 Website design & development Captains of Printing
-	[http://www.captainsofprinting.be/](http://www.captainsofprinting.be/)
+[http://www.captainsofprinting.be/](http://www.captainsofprinting.be/)
 
 Webdesign & development Cargopedalo
 [http://cargopedalo.be/](http://cargopedalo.be/)
