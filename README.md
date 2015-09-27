@@ -1,6 +1,3 @@
-<img src="docs/images/avatar.jpg" align="right"></img>
-
-
 <p align="left">
 
 Info | <br>
@@ -13,3 +10,6 @@ Schooljaar | 2015-2016
 
 </p>
 
+
+
+<img src="docs/images/avatar.jpg" align="right"></img>
