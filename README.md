@@ -1,5 +1,3 @@
-<p align="left">
-
 Info | <br>
 ------------ | -------------
 Naam| Lander Denys
@@ -8,8 +6,6 @@ Campus | Mariakerke
 Afstudeerrichting | MMP ProDUCE
 Schooljaar | 2015-2016
 
-</p>
 
 
-
-<img src="docs/images/avatar.jpg" align="right"></img>
+<img src="docs/images/avatar.jpg" style="float:right" ></img>
