@@ -1,1 +1,1 @@
-Lander Denys
+<img src="https://scontent-ams2-1.xx.fbcdn.net/hphotos-xap1/l/t31.0-8/1399804_10202399331287265_2058281332_o.jpg" alt="Drawing" style="width: 30px;"/>
