@@ -1,4 +1,6 @@
 <img src="docs/images/avatar.jpg" align="left"></img>
+
+
 Info | <br>
 ------------ | -------------
 Naam| Lander Denys
