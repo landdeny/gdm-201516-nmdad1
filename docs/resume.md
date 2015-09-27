@@ -49,7 +49,7 @@ Audition | Beginnend
 Cinema 4d | Beginnend - Middelmatig
 Blender | Beginnend - Middelmatig
 
-Content in the first column | Content in the second column
+
 ----------
 #**Contactinformatie**
 Twitter - [@landerdenys_](https://twitter.com/landerdenys_)
