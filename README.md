@@ -1,4 +1,4 @@
-<img src="docs/images/avatar.jpg"></img>
+<img src="docs/images/avatar.jpg" style="float:left;"></img>
 **Naam:** Lander Denys
 
 **Groep:** 2MMPb - ProDUCE
