@@ -6,6 +6,7 @@ Geboren in 1995 in A.Z. Sint-Jan te Brugge met een passie voor de filmindustrie.
 
 #**Portfolio**
 Website:  [www.landerdenys.com](http://www.landerdenys.com)
+
 Facebook pagina: [https://www.facebook.com/landerdenyscom](https://www.facebook.com/landerdenyscom)
 
 ----------
@@ -23,17 +24,19 @@ Staalophaler Labo Nuytinck (2015-heden)
 
 #**Kennis webtechnologieën**
 
-HTML & CSS - Gekend
-Responsive Design - Gekend
-PHP - Kleine basis
-MySQL - Kleine basis
-Javascript - Basis
-Jquery - Basis
+ - HTML & CSS : Gekend
+ - PHP : Kleine basis
+ - MySQL : Kleine Basis
+ - Javascript : Kleine Basis
+ - JQuery : Kleine Basis
 
 ----------
 
 #**Contactinformatie**
 Twitter - [@landerdenys_](https://twitter.com/landerdenys_)
+
 Facebook - Lander Denys
+
 Email - contact@landerdenys.com
+
 Adres -  Kreeftstraat 12, Gent
