@@ -1,3 +1,6 @@
+<img src="docs/images/avatar.jpg" style="float:right" ></img>
+
+
 Info | <br>
 ------------ | -------------
 Naam| Lander Denys
@@ -8,4 +11,3 @@ Schooljaar | 2015-2016
 
 
 
-<img src="docs/images/avatar.jpg" style="float:right" ></img>
